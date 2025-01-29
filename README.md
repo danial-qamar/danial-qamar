@@ -57,7 +57,7 @@
 ## CoderRank's Rank
 
 <img
-  src="https://ibb.co/Mk54Rv8h"
+  src="https://i.ibb.co/7tN5Gfgz/Screenshot-from-2025-01-29-12-07-22.png"
 />
 
 <br/>
